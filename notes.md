@@ -175,7 +175,19 @@ function sendMessage(userId, message) {
 ```
 
 #### Phase 4: Async and Await
+```javascript
+(async () => {
+  let result = ⏰await sendMessage('tlhunter', 'hi')
+  console.log(result)
+})()
 
+async function sendMessage(userId, message) {
+  let user = ⏰await getUser(userId)
+  let able = ⏰await canSend(user)
+  if (!able) return false
+  return writeMessage(user, message)
+}
+```
 
 
 
