@@ -56,4 +56,7 @@ API.ai + FB Messenger JS library
 IBM Watson + Slack
 Sentiment analysis can be hooked to the bot
 
+Web Speech API
+`window.speechSynthesis`
+
 
