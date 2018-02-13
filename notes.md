@@ -45,7 +45,9 @@ a11y = accessibility
 Check out http://spectrum.corp.adobe.com
 
 
-### Conversational Interfaces
+### Conversational Interfaces - Slack
+#### Tomomi Imura @girlie_mac girliemac.com
+
 Graphical interfaces are going to fade away and conversational interfaces will take over
 DialogFlow // Motion AI are examples
 AIaaS rise = Artificial Intelligence as a Service
@@ -59,5 +61,6 @@ Sentiment analysis can be hooked to the bot
 Web Speech API
 `window.speechSynthesis`
 Client browser linked with Socket.IO => node.js Server => API.ai
+Check out smashing magazine article - Tomomi Imura
 
 
