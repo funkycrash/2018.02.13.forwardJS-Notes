@@ -69,7 +69,7 @@ Check out http://spectrum.corp.adobe.com
 
 
 ### The Long Road to Async / Await in JavaScript
-**Thomas Hunter II** 
+**Thomas Hunter II** @tlhunter
 
 #### Evolution of async control flow
 - Phase 1: Callbacks
