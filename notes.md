@@ -189,6 +189,7 @@ async function sendMessage(userId, message) {
 }
 ```
 
+**Async/Await Error Handling**
 ```javascript
 (async () => {
   try {
@@ -203,6 +204,7 @@ async function sendMessage(userId, message) {
   throw new Error('Bad Stuff')
 }
 ```
+
 
 
 
