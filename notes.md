@@ -232,4 +232,6 @@ Avoid creating divs in your React code. Create components for each elements
 `<PageContainer>``<FullWidth>``<FixedFooter>``<FixedHeader>`
 
 #### Performance
-Redux Normalization
+- Redux Normalization
+- ServiceWorkers
+
