@@ -251,3 +251,6 @@ Fast By Default (google dev summit)
 **Erin McKean**
 
 Check out Jupyter notebook
+`shift()` takes the first element out of an array and returns it to you.
+`pop()` takes the last element out of an array and returns it to you.
+
