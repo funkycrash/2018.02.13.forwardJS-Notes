@@ -90,9 +90,21 @@ function sendMessage(userId, message) {
 }
 ```
 
+**Sync code with error handling**
+```javascript
+try {
+  var result = sendMessage('tlhunter', 'hi')
+} catch (err) {
+  return console.error(err)
+}
+console.log(result)
 
+function sendMessage(userId, message) {
+  throw new Error('Bad Stuff')
+}
+```
 
-
+#### Phase 1: Callbacks
 
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
