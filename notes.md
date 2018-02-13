@@ -68,3 +68,5 @@ Check out http://spectrum.corp.adobe.com
 - Check out smashing magazine article - Tomomi Imura
 
 
+### The Long Road to Async / Await in JavaScript
+**Thomas Hunter II** 
