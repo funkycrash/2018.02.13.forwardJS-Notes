@@ -19,5 +19,6 @@ first blockchain healthcare conference.
 Industrial grade 3d Printers
 
 
-## Design systems at scale 
+## Design systems at scale - Adobe
 ### by Sarah Federman @sarah_federman
+
