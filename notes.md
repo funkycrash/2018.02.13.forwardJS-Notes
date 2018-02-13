@@ -242,6 +242,7 @@ Avoid creating divs in your React code. Create components for each elements
 - Credential Management API
 - Device Memore API
 
+#### Bonus articles
 PWA performance case study
-Fast By Default
+Fast By Default (google dev summit)
 
