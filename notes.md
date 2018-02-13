@@ -249,3 +249,5 @@ Fast By Default (google dev summit)
 
 ### JavaScript Arrays
 **Erin McKean**
+
+Check out Jupyter notebook
