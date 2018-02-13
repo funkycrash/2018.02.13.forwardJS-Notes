@@ -4,7 +4,9 @@
 
 ### Blockchain
 Bitcoins can handle 4 transactions/seconds
+
 Why can't we put everything on the blockchain?
+
 Tierion Network puts your data online and provides a timestamp proof of any data or files or event.
 
 What applications are running on ETH
@@ -13,6 +15,7 @@ Medical applications
 
 ##### Distributed Health
 first blockchain healthcare conference. 
+
 13 of 18 hackatons team used ETH to develop a system.
 
 ### Carbon 
@@ -24,13 +27,13 @@ Industrial grade 3d Printers
 Design systems: a collection of products that solve the problem of scaling your design practice.
 
 #### Why ?
-Quick iteration
-stronger brand awareness
-improves user experience
-empowers developer
-everyone speaks the same language
-You have a single point of success of failure
-Removes dupplication
+- Quick iteration
+- stronger brand awareness
+- improves user experience
+- empowers developer
+- everyone speaks the same language
+- You have a single point of success of failure
+- Removes dupplication
 
 #### Dupplication
 dupplication leads to fragmentation which leads to stop sharing things.
