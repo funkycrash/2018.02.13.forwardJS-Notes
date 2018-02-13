@@ -246,3 +246,6 @@ Avoid creating divs in your React code. Create components for each elements
 PWA performance case study
 Fast By Default (google dev summit)
 
+
+### JavaScript Arrays
+**Erin McKean**
