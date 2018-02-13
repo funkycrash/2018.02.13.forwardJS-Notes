@@ -103,6 +103,8 @@ function sendMessage(userId, message) {
   throw new Error('Bad Stuff')
 }
 ```
+All of this is executed step by step
+
 
 #### Phase 1: Callbacks
 
