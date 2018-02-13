@@ -159,6 +159,23 @@ function * sendMessage(userId, message) {
 ```
 Interesting back and forth with resolved values. We get a value and pass it back to the generator once resolved.
 
+**Error Handling**
+```javascript
+const co = require('co')
+sendMessage('tlhunter', 'hi').then(⏰(result) => {
+  console.log(result)
+}).catch(⏰(err) => {
+  console.error(err)
+})
+function sendMessage(userId, message) {
+  return co(function * sendMessageGen() {
+    ⏰yield Promise.reject(new Error('Bad Stuff'))
+  })
+}
+```
+
+
+
 
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
