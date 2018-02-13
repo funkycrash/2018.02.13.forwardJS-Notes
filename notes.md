@@ -225,3 +225,8 @@ If you build a progressive web app from scratch
 2) Performance
 3) Accessibility
 
+#### Consistency
+- Create a component Library
+Avoid creating divs in your react code. Create components for each elements
+`<Masonry> <Box> <Spinner> <Button>` etc...
+
