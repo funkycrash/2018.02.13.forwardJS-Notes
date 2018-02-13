@@ -209,3 +209,6 @@ async function sendMessage(userId, message) {
 
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
+
+
+### Learned lessons from Pinterest rewriting a web app of their native app
