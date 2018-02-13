@@ -1,4 +1,5 @@
 # Forward JS Notes
+**San Francisco - Feb 13 2017**
 
 ## Pitching time
 
@@ -36,10 +37,10 @@ Design systems: a collection of products that solve the problem of scaling your 
 - Removes dupplication
 
 #### Dupplication
-dupplication leads to fragmentation which leads to stop sharing things.
-Code base becomes confusing
-Things get out of date
-a11y = accessibility
+- dupplication leads to fragmentation which leads to stop sharing things.
+- Code base becomes confusing
+- Things get out of date
+- a11y = accessibility
 
 #### How did Adobe scale
 - Componentizing content
@@ -51,19 +52,19 @@ Check out http://spectrum.corp.adobe.com
 ### Conversational Interfaces - Slack
 #### Tomomi Imura @girlie_mac girliemac.com
 
-Graphical interfaces are going to fade away and conversational interfaces will take over
-DialogFlow // Motion AI are examples
-AIaaS rise = Artificial Intelligence as a Service
+- Graphical interfaces are going to fade away and conversational interfaces will take over
+- DialogFlow // Motion AI are examples
+- AIaaS rise = Artificial Intelligence as a Service
 
-KLM has a bot to book flight tickets/ check status etc...
-Natural Language Processing Platform: Big players are heavily investing (IBM, Microsoft, etc..)
-API.ai + FB Messenger JS library
-IBM Watson + Slack
-Sentiment analysis can be hooked to the bot
+- KLM has a bot to book flight tickets/ check status etc...
+- Natural Language Processing Platform: Big players are heavily investing (IBM, Microsoft, etc..)
+- API.ai + FB Messenger JS library
+- IBM Watson + Slack
+- Sentiment analysis can be hooked to the bot
 
-Web Speech API
+##### Web Speech API
 `window.speechSynthesis`
-Client browser linked with Socket.IO => node.js Server => API.ai
-Check out smashing magazine article - Tomomi Imura
+- Client browser linked with Socket.IO => node.js Server => API.ai
+- Check out smashing magazine article - Tomomi Imura
 
 
