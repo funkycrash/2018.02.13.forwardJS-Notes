@@ -37,5 +37,3 @@ dupplication leads to fragmentation which leads to stop sharing things.
 Code base becomes confusing
 Things get out of date
 a11y = accessibility
-
-=> Checkout DesignOps
