@@ -21,4 +21,4 @@ Industrial grade 3d Printers
 
 ## Design systems at scale - Adobe
 ### by Sarah Federman @sarah_federman
-
+Design systems: a collection of products that solve the problem of scaling your design practice.
