@@ -229,4 +229,6 @@ If you build a progressive web app from scratch
 - Create a component Library
 Avoid creating divs in your react code. Create components for each elements
 `<Masonry> <Box> <Spinner> <Button>` etc...
+`<PageContainer>``<FullWidth>``<FixedFooter>``<FixedHeader>`
+
 
