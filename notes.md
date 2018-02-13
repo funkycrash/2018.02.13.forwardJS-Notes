@@ -218,5 +218,6 @@ Reasons to have a progressive web app:
 - Additional surface for experimentation
 - Optimize for touch surfaces
 
-Mobile web you want to shoot for 200kb max of JavaScript.
+**Mobile web you want to shoot for 200kb max of JavaScript.**
+
 
