@@ -70,3 +70,6 @@ Check out http://spectrum.corp.adobe.com
 
 ### The Long Road to Async / Await in JavaScript
 **Thomas Hunter II** 
+
+Links to slide: https://thomashunter.name/presentations/async-await-javascript-v1/
+
