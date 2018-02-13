@@ -30,3 +30,9 @@ improves user experience
 empowers developer
 everyone speaks the same language
 You have a single point of success of failure
+Removes dupplication
+
+#### Dupplication
+dupplication leads to fragmentation which leads to stop sharing things.
+Code base becomes confusing
+Things get out of date
