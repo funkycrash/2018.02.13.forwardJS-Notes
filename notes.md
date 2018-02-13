@@ -70,7 +70,6 @@ Check out http://spectrum.corp.adobe.com
 
 ### The Long Road to Async / Await in JavaScript
 **Thomas Hunter II** 
-Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
 
 #### Evolution of async control flow
 - Phase 1: Callbacks
@@ -78,8 +77,22 @@ Links to slides: https://thomashunter.name/presentations/async-await-javascript-
 - Phase 3: Generators/Yield
 - Phase 4: Async/Await
 
+**Sync code example**
+```javascript
+let result = sendMessage('tlhunter', 'hi')
+console.log(result)
+
+function sendMessage(userId, message) {
+  let user = getUser(userId)
+  let able = canSend(user)
+  if (!able) return false
+  return writeMessage(user, message)
+}
+```
 
 
 
 
 
+
+Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
