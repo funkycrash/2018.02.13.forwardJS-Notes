@@ -220,4 +220,8 @@ Reasons to have a progressive web app:
 
 **Mobile web you want to shoot for 200kb max of JavaScript.**
 
+If you build a progressive web app from scratch
+1) Consistency
+2) Performance
+3) Accessibility
 
