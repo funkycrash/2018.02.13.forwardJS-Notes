@@ -103,10 +103,23 @@ function sendMessage(userId, message) {
   throw new Error('Bad Stuff')
 }
 ```
-All of this is executed step by step
+All of this is executed step by step. You won't have any execution until the previous function is completed
 
 
 #### Phase 1: Callbacks
+```javascript
+sendMessage('tlhunter', 'hi', ⏰(err, result) => {
+  console.log(result)
+})
 
+function sendMessage(userId, message, cb) {
+  getUser(userId, ⏰(err, user) => {
+    canSend(user, ⏰(err, able) => {
+      if (!able) { cb(null, false); return }
+      writeMessage(user, message, cb)
+    })
+  })
+}
+```
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
