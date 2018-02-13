@@ -157,5 +157,8 @@ function * sendMessage(userId, message) {
   return writeMessage(user, message)
 }
 ```
+Interesting back and forth with resolved values. We get a value and pass it back to the generator once resolved.
+
+
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
