@@ -6,3 +6,9 @@ Why can't we put everything on the blockchain?
 Tierion Network puts your data online and provides a timestamp proof of any data or files or event.
 
 #### What applications are running on ETH ?
+- Philips 
+ - medical applications
+
+ - Distributed Health
+first blockchain healthcare conference. 
+13 of 18 hackatons team used ETH to develop a system.
