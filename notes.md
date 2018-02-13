@@ -58,5 +58,6 @@ Sentiment analysis can be hooked to the bot
 
 Web Speech API
 `window.speechSynthesis`
+Client browser linked with Socket.IO => node.js Server => API.ai
 
 
