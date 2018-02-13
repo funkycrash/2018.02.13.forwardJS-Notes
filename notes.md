@@ -122,4 +122,7 @@ function sendMessage(userId, message, cb) {
 }
 ```
 
+#### Phase 2: Promises
+
+
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
