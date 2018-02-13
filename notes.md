@@ -51,5 +51,7 @@ DialogFlow // Motion AI are examples
 AIaaS rise = Artificial Intelligence as a Service
 
 KLM has a bot to book flight tickets/ check status etc...
+Natural Language Processing Platform: Big players are heavily investing (IBM, Microsoft, etc..)
+
 
 
