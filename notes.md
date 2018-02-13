@@ -37,3 +37,8 @@ dupplication leads to fragmentation which leads to stop sharing things.
 Code base becomes confusing
 Things get out of date
 a11y = accessibility
+
+#### How did Adobe scale
+- Componentizing content
+- All content was put into a content type
+- This enabled to have JSON tests and schema tests
