@@ -211,4 +211,12 @@ async function sendMessage(userId, message) {
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
 
 
-### Learned lessons from Pinterest rewriting a web app of their native app
+### Learned lessons from Pinterest rewriting a progressive web app of their native app
+Reasons to have a progressive web app:
+- Features on desktop don't break mobile
+- Less logical complexity
+- Additional surface for experimentation
+- Optimize for touch surfaces
+
+Mobile web you want to shoot for 200kb max of JavaScript.
+
