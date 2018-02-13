@@ -29,3 +29,4 @@ stronger brand awareness
 improves user experience
 empowers developer
 everyone speaks the same language
+You have a single point of success of failure
