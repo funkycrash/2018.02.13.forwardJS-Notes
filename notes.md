@@ -7,7 +7,7 @@ Bitcoins can handle 4 transactions/seconds
 Why can't we put everything on the blockchain?
 Tierion Network puts your data online and provides a timestamp proof of any data or files or event.
 
-What applications are running on ETH?
+What applications are running on ETH
 ##### Philips 
 Medical applications
 
@@ -42,4 +42,8 @@ a11y = accessibility
 - Componentizing content
 - All content was put into a content type
 - This enabled to have JSON tests and schema tests
+Check out http://spectrum.corp.adobe.com
 
+
+### Conversational Interfaces
+Graphical interfaces are going to fade away and conversational interfaces will take over
