@@ -227,7 +227,7 @@ If you build a progressive web app from scratch
 
 #### Consistency
 - Create a component Library
-Avoid creating divs in your react code. Create components for each elements
+Avoid creating divs in your React code. Create components for each elements
 `<Masonry> <Box> <Spinner> <Button>` etc...
 `<PageContainer>``<FullWidth>``<FixedFooter>``<FixedHeader>`
 
