@@ -123,6 +123,22 @@ function sendMessage(userId, message, cb) {
 ```
 
 #### Phase 2: Promises
+```javascript
+sendMessage('tlhunter', 'hi').then(⏰(result) => {
+  console.log(result)
+})
+
+function sendMessage(userId, message) {
+  return getUser(userId).then(⏰(user) => {
+    return canSend(user)
+  }).then(⏰(able) => {
+    if (!able) return false
+    return writeMessage(user, message)
+  })
+}
+```
+
+
 
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
