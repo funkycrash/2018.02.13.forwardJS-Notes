@@ -139,6 +139,23 @@ function sendMessage(userId, message) {
 ```
 
 
-
+#### Phase 3: Generators
+Not a lot of people use them but they are very powerful
+```javascript
+let gen = sendMessage('tlhunter', 'hi')
+gen.next().value.then(⏰(user) => {
+  return gen.next(user).value.then(⏰(able) => {
+    return gen.next(able).value.then(⏰(result) => {
+      console.log(result)
+    })
+  })
+})
+function * sendMessage(userId, message) {
+  let user = ⏰yield getUser(userId)
+  let able = ⏰yield canSend(user)
+  if (!able) return false
+  return writeMessage(user, message)
+}
+```
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
