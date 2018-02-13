@@ -230,3 +230,6 @@ If you build a progressive web app from scratch
 Avoid creating divs in your React code. Create components for each elements
 `<Masonry> <Box> <Spinner> <Button>` etc...
 `<PageContainer>``<FullWidth>``<FixedFooter>``<FixedHeader>`
+
+#### Performance
+Redux Normalization
