@@ -42,3 +42,4 @@ a11y = accessibility
 - Componentizing content
 - All content was put into a content type
 - This enabled to have JSON tests and schema tests
+
