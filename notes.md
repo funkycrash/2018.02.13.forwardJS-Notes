@@ -235,4 +235,10 @@ Avoid creating divs in your React code. Create components for each elements
 - Redux Normalization
 - ServiceWorkers: they can fetch the data and cache the resource so that when you're offline, it can show content for your page
 
+#### PWA Features
+- Background Sync
+- Image Capture API
+- Web Share API
+- Credential Management API
+- Device Memore API
 
