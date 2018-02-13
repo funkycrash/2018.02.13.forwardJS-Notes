@@ -47,3 +47,9 @@ Check out http://spectrum.corp.adobe.com
 
 ### Conversational Interfaces
 Graphical interfaces are going to fade away and conversational interfaces will take over
+DialogFlow // Motion AI are examples
+AIaaS rise = Artificial Intelligence as a Service
+
+KLM has a bot to book flight tickets/ check status etc...
+
+
