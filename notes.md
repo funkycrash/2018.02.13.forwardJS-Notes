@@ -189,6 +189,21 @@ async function sendMessage(userId, message) {
 }
 ```
 
+```javascript
+(async () => {
+  try {
+    var result = ⏰await sendMessage('tlh', 'hi')
+  } catch(err) {
+    return console.error(err)
+  }
+  console.log(result)
+})()
+
+async function sendMessage(userId, message) {
+  throw new Error('Bad Stuff')
+}
+```
+
 
 
 Links to slides: https://thomashunter.name/presentations/async-await-javascript-v1/
